@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codyjohnsontx
-- 👀 I’m interested in development of software
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python, ruby on rails, css, javascript
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me ...
