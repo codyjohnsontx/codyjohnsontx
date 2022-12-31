@@ -2,7 +2,10 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python, ruby on rails, css, javascript
 - 💞️ I’m looking to collaborate on anything and everything
-- 📫 How to reach me ...
+- 📫 How to reach me...
+- IG codyjohnsontx
+- email codyjohnsontx@gmail.com
+
 
 <!---
 codyjohnsontx/codyjohnsontx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
