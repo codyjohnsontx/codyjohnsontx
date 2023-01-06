@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codyjohnsontx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python, ruby on rails, css, javascript
+- 🌱 I’m currently learning python,Node.js, React, AWS, and of course vanilla javascript
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me...
 - IG codyjohnsontx
