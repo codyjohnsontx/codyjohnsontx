@@ -1,7 +1,7 @@
 <h2>🏄 Cody Johnson</h2>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Crafter+(Developer,+Tinkerer,+Creator)&width=800&pause=2500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Crafter+(Developer,+Tinkerer,+Innovator)&width=800&pause=2500)](https://git.io/typing-svg)
 
 
 
