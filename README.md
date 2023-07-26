@@ -5,8 +5,11 @@
 
 
 
-I'm a fullstack developer and life-long student learning and building towards making a difference in the world one step at a time. All projects are built by me designed to solve and automate real-life problems. In my spare time, I'm working on developing Computer Vision for use in autonomous vehicles
+As a full-stack developer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks. Currently in my spare time, I'm exploring Computer Vision and Machine Learning, with a keen interest in autonomous vehicles.
 
+Beyond coding, I see myself as a problem-solver and innovative thinker. Continuous growth and curiosity drive me to make a meaningful difference in our world.
+
+I'm eager to collaborate with like-minded teams who share my vision for innovation. Let's work together to shape a better tomorrow for everyone!
 
 <h1>Hello</h1>
 
