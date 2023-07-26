@@ -1,4 +1,4 @@
-<h1>🏄 Cody Johnson</h1>
+<h2>🏄 Cody Johnson</h2>
 
 **'Digital Crafter (Developer, Tinkerer, Student)'**
 
