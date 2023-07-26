@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Crafter+(Developer,+Tinkerer,+Student&WIDTH&width=800))](https://git.io/typing-svg)
-**'Digital Crafter (Developer, Tinkerer, Student)'**
+
 
 I'm a fullstack developer and life-long student learning and building towards making a difference in the world one step at a time. All projects are built by me designed to solve and automate real-life problems. In my spare time, I'm working on developing Computer Vision for use in autonomous vehicles
 
