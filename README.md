@@ -42,7 +42,7 @@ I'm eager to collaborate with like-minded teams who share my vision for innovati
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-#
+
 
 <!--
 **codyjohnsontx/codyjohnsontx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
