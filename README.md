@@ -4,6 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Digital+Crafter+(Developer,+Tinkerer,+Innovator)&width=800&pause=2500)](https://git.io/typing-svg)
 
 
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+
+
 
 As a full-stack developer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks. Currently in my spare time, I'm exploring Computer Vision and Machine Learning, with a keen interest in autonomous vehicles.
 
