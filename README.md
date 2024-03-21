@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> As a full-stack developer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks. Currently in my spare time, I'm exploring Computer Vision and Machine Learning, with a keen interest in autonomous vehicles.
+<p align="left"> As a full-stack developer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks.
 
 Beyond coding, I see myself as a problem-solver and innovative thinker. Continuous growth and curiosity drive me to make a meaningful difference in our world.
 
