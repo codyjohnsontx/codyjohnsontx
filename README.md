@@ -6,9 +6,9 @@
 
 
 
-<p align="left"> As a full-stack developer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks.
+<p align="left"> As a software engineer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks.
 
-Beyond coding, I see myself as a problem-solver and innovative thinker. Continuous growth and curiosity drive me to make a meaningful difference in our world.
+Beyond coding, I'm an innovative thinker and problem-solver. Continuous growth and curiosity fuel my drive to make a meaningful difference in our world.
 
 I'm eager to collaborate with like-minded teams and individuals who share my vision for innovation. Let's work together to shape a better tomorrow!
 
