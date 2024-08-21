@@ -6,11 +6,13 @@
 
 
 
-<p align="left"> As a software engineer and lifelong learner, I'm passionate about creating a positive impact. I take on projects to solve real-life challenges and streamline tasks.
+<p align="left"> I'm Cody Johnson, a software engineer who’s always pushing boundaries and finding smarter ways to solve real-world problems. My passion lies in crafting solutions that not only work but make life a little easier for the people using them.
 
-Beyond coding, I'm an innovative thinker and problem-solver. Continuous growth and curiosity fuel my drive to make a meaningful difference in our world.
+I’ve got a knack for full-stack development, and I’m always on the lookout for projects that challenge me to grow. Whether it's designing a sleek, responsive app or digging into the backend to optimize performance, I'm all about creating work that stands the test of time.
 
-I'm eager to collaborate with like-minded teams and individuals who share my vision for innovation. Let's work together to shape a better tomorrow!
+Beyond the code, I’m driven by curiosity and a desire to innovate. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
+
+Let's build something great together.
 
 ---
 
