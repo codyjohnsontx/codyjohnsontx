@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> I'm Cody Johnson, a software engineer who’s always pushing boundaries and finding smarter ways to solve real-world problems. My passion lies in crafting solutions that not only work but make life a little easier for the people using them.
+<p align="left"> Hello friend, I'm Cody, a software engineer who’s always pushing boundaries and finding smarter ways to solve real-world problems. My passion lies in crafting solutions that not only work but make life a little easier for the people using them.
 
 I’ve got a knack for full-stack development, and I’m always on the lookout for projects that challenge me to grow. Whether it's designing a sleek, responsive app or digging into the backend to optimize performance, I'm all about creating work that stands the test of time.
 
