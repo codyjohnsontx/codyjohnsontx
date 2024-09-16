@@ -1,11 +1,5 @@
  <h2>🏄 Cody Johnson</h2>
 
-
-
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
-
-
-
 <p align="left"> hellofriend, I'm Cody.
 
 I’ve got a knack for full-stack development, and a desire to innovate. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
