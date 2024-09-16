@@ -6,11 +6,9 @@
 
 
 
-<p align="left"> Hello friend, I'm Cody, a software engineer who’s always pushing boundaries and finding smarter ways to solve real-world problems. My passion lies in crafting solutions that not only work but make life a little easier for the people using them.
+<p align="left"> hellofriend, I'm Cody.
 
-I’ve got a knack for full-stack development, and I’m always on the lookout for projects that challenge me to grow. Whether it's designing a sleek, responsive app or digging into the backend to optimize performance, I'm all about creating work that stands the test of time.
-
-Beyond the code, I’m driven by curiosity and a desire to innovate. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
+I’ve got a knack for full-stack development, and a desire to innovate. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
 
 Let's build something great together.
 
