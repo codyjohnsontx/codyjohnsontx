@@ -2,7 +2,7 @@
 
 <p align="left"> hellofriend, I'm Cody.
 
-I’ve got a knack for full-stack development, and a burning desire to build awesome things. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
+I’ve got a knack for full-stack development, and a burning desire to build awesome things with awesomer people. I thrive in collaborative environments where ideas flow freely, and I’m excited to work with teams that share my passion for technology and making a real impact.
 
 Let's build something great together.
 
