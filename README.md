@@ -2,11 +2,7 @@
 
 <p align="left"> 
   🤖 hellofriend, I'm Cody.
-  <br><br>
-  I’ve got a knack for development and a burning desire to build awesome things with awesomer people. 
-  I thrive in collaborative environments where big ideas flow freely without judgement, working with teams that share my 
-  passion for technology and making a real impact in the lives of others.
-  <br><br>
+  
   Let's build something great together.
 </p>
 
