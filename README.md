@@ -2,9 +2,7 @@
 
 <p align="left"> 
   🤖 hellofriend, I'm Cody.
-  
-  Let's build something great together.
-</p>
+  </p>
 
 ---
 
