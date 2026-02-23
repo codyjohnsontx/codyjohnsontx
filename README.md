@@ -1,4 +1,4 @@
-<h2>🏄🏍️🏎️🥋 hellofriend, I'm Cody.</h2>
+<h2>🏄🏍️🏎️🥋 hellofriend.</h2>
 
 <p align="left"> 
   
