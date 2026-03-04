@@ -3,17 +3,16 @@
 <p align="left"> 
   
   </p>
-Product thinker.
+Product Manager
 
-I care about clean systems, measurable outcomes, and shipping fast without breaking trust.
-
-Currently building at the intersection of:
+Building in:
 
 🏁 Motorsports & telemetry
 
 🧠 Product + data thinking
 
-🌐 Modern web apps (React / Node / TypeScript)
+React / Node / TypeScript
 
-🐍 Automation & Python tooling
+Current Projects
 --
+[Strava Component Lifecycle](https://github.com/codyjohnsontx/ccComponentHealthDashboard)
