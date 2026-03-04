@@ -19,4 +19,11 @@ Current Projects
 
 📷 [Instagram Gif Library](https://github.com/codyjohnsontx/instagramGifFeature) - Instagram GIF comments prototype with a persistent cross-post “My GIFs” library.
 
+🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner) - Track Tuner is a mobile race engineer in your pocket, with AI setup guidance grounded by RAG.
+
+
+
+
+
+
 
