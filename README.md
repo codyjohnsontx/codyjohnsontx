@@ -9,7 +9,7 @@ Building in:
 
 🏁 Motorsports & telemetry
 
-🧠 Product + data thinking
+🧠 product + usable tools
 
 React / Node / TypeScript
 
