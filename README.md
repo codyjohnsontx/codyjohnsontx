@@ -8,7 +8,7 @@ Currently building in:
 
 🏁 Motorsports & telemetry
 
-🧠 product + usable tools
+VOD products + free usable tools
 
 React / Node / TypeScript
 
