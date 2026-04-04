@@ -3,9 +3,8 @@
 <p align="left"> 
   
   </p>
-Product Manager
 
-Building in:
+Currently building in:
 
 🏁 Motorsports & telemetry
 
