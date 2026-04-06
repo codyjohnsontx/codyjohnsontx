@@ -4,11 +4,6 @@
   
   </p>
 
-
-
-.github/workflows/metrics.yml
-
-Learn more about this action in lowlighter/metrics
 Currently building in:
 
 🏁 Motorsports & telemetry
