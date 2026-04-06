@@ -6,9 +6,7 @@
 
 
 
-- name: Metrics embed
-
-  uses: lowlighter/metrics@v3.34
+.github/workflows/metrics.yml
 
 Learn more about this action in lowlighter/metrics
 Currently building in:
