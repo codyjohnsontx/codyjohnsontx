@@ -4,6 +4,13 @@
   
   </p>
 
+
+
+- name: Metrics embed
+
+  uses: lowlighter/metrics@v3.34
+
+Learn more about this action in lowlighter/metrics
 Currently building in:
 
 🏁 Motorsports & telemetry
