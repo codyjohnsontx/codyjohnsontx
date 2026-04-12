@@ -1,6 +1,6 @@
 <h2>🏄🏍️🏎️🥋 Hello friend, I'm Cody.</h2>
 <p align="left"> 
-  
+  https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
   </p>
 Currently building in:
 
