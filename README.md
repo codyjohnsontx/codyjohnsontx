@@ -1,5 +1,4 @@
 <h2>🏄🏍️🏎️🥋 Hello friend, I'm Cody.</h2>
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 <p align="left"> 
   
   </p>
