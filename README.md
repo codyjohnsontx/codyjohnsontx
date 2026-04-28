@@ -23,6 +23,8 @@ VOD products + free usable tools
 
 React / Node / TypeScript
 
+Go Faster!
+
 Current Projects
 --
 - 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense) - a cycling analytics app that dedupes your TrainerRoad and Strava workouts into a single timeline and lets you ask grounded questions about your own training load. No double-counted TSS, no hand-wavy AI coaching.
