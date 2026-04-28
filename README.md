@@ -25,11 +25,11 @@ React / Node / TypeScript
 
 Current Projects
 --
-- 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense) - a cycling analytics app that dedupes your TrainerRoad and Strava workouts into a single timeline and lets you ask grounded questions about your own training load. No double-counted TSS, no hand-wavy AI coaching.     
+- 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense) - a cycling analytics app that dedupes your TrainerRoad and Strava workouts into a single timeline and lets you ask grounded questions about your own training load. No double-counted TSS, no hand-wavy AI coaching.
+- 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner) - Track Tuner is a mobile race engineer in your pocket, with AI setup guidance grounded by RAG.     
 - 🏎️ [LapEdge](https://github.com/codyjohnsontx/lapEdge) - Machine learning powered real-time pit strategy overlay for iRacing that acts as a virtual race engineer, analyzing live telemetry and competitor data to deliver actionable strategic recommendations so drivers can focus entirely on racing.
 - 🚲 [The Velo Way: Strava Component Lifecycle](https://github.com/codyjohnsontx/theVeloWay) - multi bike gear health + retailer price compare powered by ride data.
 - 📷 [Instagram Gif Library](https://github.com/codyjohnsontx/instagramGifFeature) - Instagram GIF comments prototype with a persistent cross-post “My GIFs” library.
-- 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner) - Track Tuner is a mobile race engineer in your pocket, with AI setup guidance grounded by RAG.
 - 🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazOnDemand) — subscription VOD platform for martial arts training with structured courses.
 - 🏎️ [iRacing Overlap](https://github.com/codyjohnsontx/Overlap) -  lightweight always-on-top iRacing racecar radar overlay in .NET/WPF for real-time close-proximity awareness.
 
