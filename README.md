@@ -1,39 +1,45 @@
-<h2>🏄🏍️🏎️🥋 Hello friend, I'm Cody.</h2>
-<p align="left"> 
+# 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm Cody.
+
+I'm a product-minded builder in Austin, Texas, working across product management, full-stack apps, AI workflows, analytics, and operational systems.
+
+I like turning vague problems into useful shipped tools, especially when the domain has real-world constraints, messy data, and people who need answers fast.
+
 ## ⚙️ Tech Stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square)  </p>
+TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · Git · Docker · Vercel · OpenAI · Claude · Codex
 
-Currently building in:
+## Currently Building In
 
-🏁 Motorsports & telemetry
+- 🏁 Motorsports, telemetry, and trackside decision support
+- 🚲 Cycling analytics and training tools
+- 🥋 Subscription VOD and course platforms
+- 🧰 Free, usable tools with practical workflows
+- 🤖 Grounded AI features backed by real product context
 
-VOD products + free usable tools
+## Current Projects
 
-React / Node / TypeScript
+### 🚲💨 RideSense
+Cycling analytics app that dedupes TrainerRoad, Strava, and uploaded ride data into one canonical training timeline. Built around workload trends, deterministic analytics, and grounded Q&A without double-counted TSS or hand-wavy AI coaching.
 
-Go Faster!
+### 🏍️🏎️ Track Tuner
+Mobile race engineer for riders and drivers. Starts with setup logging, session history, track conditions, and feedback, then layers in RAG-based AI setup guidance grounded in actual user context.
 
-Current Projects
---
-- 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense) - a cycling analytics app that dedupes your TrainerRoad and Strava workouts into a single timeline and lets you ask grounded questions about your own training load. No double-counted TSS, no hand-wavy AI coaching.
-- 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner) - Track Tuner is a mobile race engineer in your pocket, with AI setup guidance grounded by RAG.     
-- 🏎️ [LapEdge](https://github.com/codyjohnsontx/lapEdge) - Machine learning powered real-time pit strategy overlay for iRacing that acts as a virtual race engineer, analyzing live telemetry and competitor data to deliver actionable strategic recommendations so drivers can focus entirely on racing.
-- 🚲 [The Velo Way: Strava Component Lifecycle](https://github.com/codyjohnsontx/theVeloWay) - multi bike gear health + retailer price compare powered by ride data.
-- 📷 [Instagram Gif Library](https://github.com/codyjohnsontx/instagramGifFeature) - Instagram GIF comments prototype with a persistent cross-post “My GIFs” library.
-- 🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazOnDemand) — subscription VOD platform for martial arts training with structured courses.
-- 🏎️ [iRacing Overlap](https://github.com/codyjohnsontx/Overlap) -  lightweight always-on-top iRacing racecar radar overlay in .NET/WPF for real-time close-proximity awareness.
+### 🏎️ LapEdge
+Machine-learning powered real-time pit strategy overlay for iRacing. Designed as a virtual race engineer that analyzes telemetry and competitor context so drivers can focus on racing.
 
+### 🚲 Wattsmith
+Local-first cycling workout builder for creating FTP-based workouts, inspecting power targets, saving templates, and exporting `.mrc` / `.erg` files.
 
+### 🚲 The Velo Way
+Strava-powered component lifecycle concept for tracking multi-bike gear health, replacement timing, and retailer price comparisons from ride data.
 
+### 📷 Instagram GIF Library
+Prototype for Instagram GIF comments with a persistent cross-post “My GIFs” library.
+
+### 🥋 Diaz on Demand
+Subscription VOD platform for martial arts training with structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
+
+### 🏎️ iRacing Overlap
+Lightweight always-on-top iRacing radar overlay built in .NET/WPF for real-time close-proximity awareness.
+
+## Go Faster.
