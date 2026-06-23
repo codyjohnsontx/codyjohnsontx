@@ -1,6 +1,6 @@
 # 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm Cody.
 
-I'm a product-minded builder in Austin, Texas, working across product management, full-stack apps, AI workflows, analytics, and operational systems.
+I'm a product-minded builder working across product management, full-stack apps, AI workflows, analytics, and operational systems.
 
 I like turning vague problems into useful shipped tools, especially when the domain has real-world constraints, messy data, and people who need answers fast.
 
