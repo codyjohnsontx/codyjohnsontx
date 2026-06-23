@@ -27,7 +27,7 @@ Mobile race engineer for riders and drivers. Starts with setup logging, session 
 ### 🏎️ LapEdge
 Machine-learning powered real-time pit strategy overlay for iRacing. Designed as a virtual race engineer that analyzes telemetry and competitor context so drivers can focus on racing.
 
-### 🚲 Wattsmith
+### 🚲 [Wattsmith](https://github.com/codyjohnsontx/wattSmith)
 Local-first cycling workout builder for creating FTP-based workouts, inspecting power targets, saving templates, and exporting `.mrc` / `.erg` files.
 
 ### 🚲 The Velo Way
