@@ -27,13 +27,13 @@ Mobile race engineer for riders and drivers. Starts with setup logging, session 
 ### 🏍️💬 [CTX Connect](https://github.com/codyjohnsontx/ctxconnect)
 Dealership communication workspace for motorcycle teams that need shared customer texting, follow-ups, service updates, assignments, templates, and manager visibility in one place.
 
-### 🚲 [Wattsmith](https://github.com/codyjohnsontx/wattSmith)
+### 🚲⚡ [Wattsmith](https://github.com/codyjohnsontx/wattSmith)
 Local-first cycling workout builder for creating FTP-based workouts, inspecting power targets, saving templates, and exporting `.mrc` / `.erg` files.
 
-### 🚲 [The Velo Way](https://github.com/codyjohnsontx/theVeloWay)
+### 🚲⚙️ [The Velo Way](https://github.com/codyjohnsontx/theVeloWay)
 Strava-powered component lifecycle concept for tracking multi-bike gear health, replacement timing, and retailer price comparisons from ride data.
 
-### 🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
+### 🥋🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
 Subscription VOD platform for martial arts training with structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
 
 ## Go Faster.
