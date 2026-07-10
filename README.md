@@ -1,39 +1,37 @@
 # 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm Cody.
 
-I'm a product-minded builder working across product management, full-stack apps, AI workflows, analytics, and operational systems.
+I'm a software engineer building full stack apps, AI workflows, analytics, and operational systems.
 
-I like turning vague problems into useful shipped tools, especially when the domain has real-world constraints, messy data, and people who need answers fast.
+I use AI tools like Claude and Claude Code every day, and I treat their output as unverified until it passes review and tests. I like turning vague problems into useful shipped tools, especially when the domain has real world constraints, messy data, and people who need answers fast.
 
 ## ⚙️ Tech Stack
 
-TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · Git · Docker · Vercel · OpenAI · Claude · Codex
+TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · Git · Docker · Vercel · OpenAI · Claude · Claude Code
 
-## Currently Building In
+## 🔧 How I Work
 
-- 🏁 Motorsports, telemetry, and trackside decision support
-- 🚲 Cycling analytics and training tools
-- 🥋 Subscription VOD and course platforms
-- 🧰 Free, usable tools with practical workflows
-- 🤖 Grounded AI features backed by real product context
+- **Spec first.** Requirements, scope, and acceptance criteria get written down before code starts.
+- **Tested.** Automated suites, golden file checks, and round trip verification on anything that leaves the app.
+- **Grounded AI.** Evals, guardrails, and answers backed by real data. If a model makes a claim it can't source, it doesn't ship.
 
 ## Current Projects
 
-### 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense)
-Cycling analytics app that dedupes TrainerRoad, Strava, and uploaded ride data into one canonical training timeline. Built around workload trends, deterministic analytics, and grounded Q&A without double-counted TSS or hand-wavy AI coaching.
-
-### 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner)
-Mobile race engineer for riders and drivers. Starts with setup logging, session history, track conditions, and feedback, then layers in RAG-based AI setup guidance grounded in actual user context.
-
-### 🏍️💬 [CTX Connect](https://github.com/codyjohnsontx/ctxconnect)
-Dealership communication workspace for motorcycle teams that need shared customer texting, follow-ups, service updates, assignments, templates, and manager visibility in one place.
+### 🧬 [OncoPath](https://github.com/codyjohnsontx/ocnoPath)
+Live app that turns public ClinicalTrials.gov records into plain language explanations for patients. Built around an evaluation harness that caught bugs in both the generator and the automated judge, then got checked against human review before any score was trusted.
 
 ### 🚲⚡ [Wattsmith](https://github.com/codyjohnsontx/wattSmith)
-Local-first cycling workout builder for creating FTP-based workouts, inspecting power targets, saving templates, and exporting `.mrc` / `.erg` files.
+Local first cycling workout builder with FTP based power targets and verified `.mrc` / `.erg` export. Exported files are parsed back and diffed against the source automatically, so a bad file never reaches a real training ride. 119 tests and counting.
 
-### 🚲⚙️ [The Velo Way](https://github.com/codyjohnsontx/theVeloWay)
-Strava-powered component lifecycle concept for tracking multi-bike gear health, replacement timing, and retailer price comparisons from ride data.
+### 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense)
+Cycling analytics app that dedupes TrainerRoad, Strava, and uploaded ride data into one canonical training timeline. Content hash deduplication, encrypted OAuth token handling, deterministic analytics, and grounded Q&A without double counted TSS or hand wavy AI coaching.
+
+### 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner)
+Mobile race engineer for riders and drivers. Setup logging, session history, track conditions, and feedback, with RAG based AI setup guidance grounded in the rider's actual history instead of generic advice.
+
+### 🏍️💬 [CTX Connect](https://github.com/codyjohnsontx/ctxconnect)
+Dealership communication workspace for motorcycle teams. Shared customer texting with SMS compliance built in from day one, follow ups, assignments, and manager visibility in one place.
 
 ### 🥋🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
-Subscription VOD platform for martial arts training with structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
+Subscription VOD platform for martial arts training. Structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
 
-## Go Faster.
+Go faster.
