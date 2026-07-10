@@ -2,7 +2,7 @@
 
 I'm a software engineer building full stack apps, AI workflows, analytics, and operational systems.
 
-I use AI tools like Claude and Claude Code every day, and I treat their output as unverified until it passes review and tests. I like turning vague problems into useful shipped tools, especially when the domain has real world constraints, messy data, and people who need answers fast.
+I like turning vague problems into useful shipped tools, especially when the domain has real world constraints, messy data, and people who need answers fast.
 
 ## ⚙️ Tech Stack
 
