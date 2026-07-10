@@ -1,4 +1,4 @@
-# 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm Cody.
+# 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm [Cody](https://www.cody-johnson.com/).
 
 I'm a software engineer building full stack apps, AI workflows, analytics, and operational systems.
 
