@@ -6,7 +6,7 @@ I like turning vague problems into useful shipped tools, especially when the dom
 
 ## ⚙️ Tech Stack
 
-TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · SQL · Git · Docker · Vercel · OpenAI · Claude · Claude Code
+TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · C# / .NET · SQL · Postgres · Git · Docker · Vercel · OpenAI · Claude · Claude Code
 
 ## 🔧 How I Work
 
@@ -27,6 +27,9 @@ Cycling analytics app that dedupes TrainerRoad, Strava, and uploaded ride data i
 
 ### 🏍️🏎️ [Track Tuner](https://github.com/codyjohnsontx/trackday_tuner)
 Mobile race engineer for riders and drivers. Setup logging, session history, track conditions, and feedback, with RAG based AI setup guidance grounded in the rider's actual history instead of generic advice.
+
+### 🏎️🏁 [Oasis Race Control](https://github.com/codyjohnsontx/oasisRaceControl)
+Check-in and live timing for a sim racing venue. Drivers scan a QR code at their rig, a front of store TV shows live "fastest tonight" standings, drivers follow their own laps on their phone, and staff run the floor from one dashboard. A .NET agent on each simulator ships laps through a durable, idempotent outbox, so a network drop or restart never loses a lap, and the database enforces one open assignment per rig instead of trusting the app to.
 
 ### 🏍️💬 [CTX Connect](https://github.com/codyjohnsontx/ctxconnect)
 Dealership communication workspace for motorcycle teams. Shared customer texting with SMS compliance built in from day one, follow ups, assignments, and manager visibility in one place.
