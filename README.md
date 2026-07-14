@@ -38,3 +38,4 @@ Dealership communication workspace for motorcycle teams. Shared customer texting
 Subscription VOD platform for martial arts training. Structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
 
 Go faster.
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=codyjohnsontx)](https://github.com/stats-organization/github-stats-extended)
