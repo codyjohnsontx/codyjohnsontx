@@ -36,6 +36,8 @@ Dealership communication workspace for motorcycle teams. Shared customer texting
 
 ### 🥋🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
 Subscription VOD platform for martial arts training. Structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
+
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codyjohnsontx&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=codyjohnsontx&include_all_commits=true&theme=dark)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=codyjohnsontx)](https://github.com/stats-organization/github-stats-extended)
+
