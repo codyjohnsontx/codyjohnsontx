@@ -1,18 +1,8 @@
-# 🏄 🏍️ 🏎️ 🥋 Hello friend, I'm [Cody](https://www.cody-johnson.com/).
-
-I'm a software engineer building full stack apps, AI workflows, analytics, and operational systems.
-
-I like turning vague problems into useful shipped tools, especially when the domain has real world constraints, messy data, and people who need answers fast.
+# Hello friend, I'm [Cody](https://www.cody-johnson.com/).
 
 ## ⚙️ Tech Stack
 
 TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · C# / .NET · SQL · Postgres · Git · Docker · Vercel · OpenAI · Claude · Claude Code
-
-## 🔧 How I Work
-
-- **Spec first.** Requirements, scope, and acceptance criteria get written down before code starts.
-- **Tested.** Automated suites, golden file checks, and round trip verification on anything that leaves the app.
-- **Grounded AI.** Evals, guardrails, and answers backed by real data. If a model makes a claim it can't source, it doesn't ship.
 
 ## Current Projects
 
