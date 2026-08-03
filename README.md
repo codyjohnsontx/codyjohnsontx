@@ -12,7 +12,7 @@ A mobile race engineer for riders and drivers. Log a session in under 60 seconds
 ### 🏎️🏁 [Oasis Race Control](https://github.com/codyjohnsontx/oasisRaceControl)
 Check-in and live timing for a sim racing venue. Drivers scan a QR code at their rig, a front of store TV shows live "fastest tonight" standings, drivers follow their own laps on their phone, and staff run the floor from one dashboard. A .NET agent on each simulator ships laps through a durable, idempotent outbox, so a network drop or restart never loses a lap, and the database enforces one open assignment per rig instead of trusting the app to.
 
-## 🏍️💬 CTX Connect
+## 🏍️💬 [CTX Connect](https://github.com/codyjohnsontx/ctxconnect)
 A service advisor may be managing 40 customer conversations at once—sales questions, service updates, parts arrivals, and customers who have gone quiet. CTX Connect uses ambient AI to summarize each thread, surface the next action, and prioritize the inbox by what actually needs attention instead of what arrived last. It combines shared texting, follow-up tasks, team assignments, and SMS compliance in one workflow. Built with Next.js, TypeScript, Twilio, Prisma, and Neon Postgres.
 
 ### 🥋🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
