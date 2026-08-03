@@ -6,7 +6,7 @@ TypeScript · JavaScript · React · Next.js · Node.js · Python · FastAPI · 
 
 ## Current Projects
 
-### 🏍️🏎️ Track Tuner
+### 🏍️🏎️ [Trackday Tuner](https://github.com/codyjohnsontx/trackday_tuner)
 A mobile race engineer for riders and drivers. Log a session in under 60 seconds, compare setup changes against rider feedback, and keep conditions, outcomes, and history in one place. Its retrieval-based AI guidance uses your actual track data instead of generic setup advice. Built with Next.js, TypeScript, Supabase, and Tailwind CSS.
 
 ### 🏎️🏁 [Oasis Race Control](https://github.com/codyjohnsontx/oasisRaceControl)
