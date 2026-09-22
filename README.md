@@ -17,7 +17,7 @@ A service advisor may be managing 40 customer conversations at once—sales ques
 
 ### 🥋🥋 [Diaz on Demand](https://github.com/codyjohnsontx/DiazMartialArts)
 Subscription VOD platform for martial arts training. Structured courses, entitlement logic, Stripe billing, Mux video delivery, and admin publishing workflows.
-
+<!-- 
 ### 🧬 [OncoPath](https://github.com/codyjohnsontx/ocnoPath)
 Live app that turns public ClinicalTrials.gov records into plain language explanations for patients. Built around an evaluation harness that caught bugs in both the generator and the automated judge, then got checked against human review before any score was trusted.
 
@@ -26,7 +26,7 @@ Local first cycling workout builder with FTP based power targets and verified `.
 
 ### 🚲💨 [RideSense](https://github.com/codyjohnsontx/ridesense)
 Cycling analytics app that dedupes TrainerRoad, Strava, and uploaded ride data into one canonical training timeline. Content hash deduplication, encrypted OAuth token handling, deterministic analytics, and grounded Q&A without double counted TSS or hand wavy AI coaching.
-
+ -->
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codyjohnsontx&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=codyjohnsontx&include_all_commits=true&theme=dark)
 
